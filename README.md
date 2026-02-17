@@ -2,8 +2,7 @@ This is my second project in blurprint, a simple 555 LED CHASER I made using the
 
 
 # PCB LAYOUT
-<img width="1124" height="677" alt="image" src="https://github.com/user-attachments/assets/cc6498b4-fe1c-4631-aff7-4115c6fa0bd8" />
-
+<img width="1579" height="868" alt="image" src="https://github.com/user-attachments/assets/44b00c6f-0378-4cfb-830d-91fdf1c590f8" />
 
 # Schematics 
 <img width="1035" height="531" alt="Schematics" src="https://github.com/user-attachments/assets/98860ebf-5387-4439-8a6d-41ceb0fc6a91" />
